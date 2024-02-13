@@ -1,0 +1,7 @@
+[2024-02-07 14:56:06 +0800] [4477] [INFO] Starting gunicorn 21.2.0
+[2024-02-07 14:56:06 +0800] [4477] [INFO] Listening at: http://0.0.0.0:8003 (4477)
+[2024-02-07 14:56:06 +0800] [4477] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2024-02-07 14:56:06 +0800] [4498] [INFO] Booting worker with pid: 4498
+[2024-02-07 14:56:11 +0800] [4498] [INFO] Started server process [4498]
+[2024-02-07 14:56:11 +0800] [4498] [INFO] Waiting for application startup.
+[2024-02-07 14:56:43 +0800] [4498] [INFO] Application startup complete.
